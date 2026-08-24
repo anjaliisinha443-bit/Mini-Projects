@@ -49,6 +49,6 @@ Operators - `for` Loop - `range()` Function
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Anjali Sinha
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** https://github.com/anjaliisinha443-bit/Mini-Projects
